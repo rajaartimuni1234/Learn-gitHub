@@ -1,0 +1,2 @@
+>first step-
+git initls
