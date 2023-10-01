@@ -38,4 +38,9 @@ Quotes
 
     - bulet
     - aarti
+
+    ```javascript
+
+    var a="string";
+    ```
     
