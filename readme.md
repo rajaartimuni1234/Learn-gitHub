@@ -16,6 +16,17 @@ Link
 
 |Monday|Tues|Wed|
 
+
+
+    var a="string";
+
+
+    const name =()=>{
+    let a=9;
+    let b=10;
+    let c=a+b;
+    return c;
+    }
 |---|---|---|
 |sci|math|bio|
 
@@ -39,8 +50,4 @@ Quotes
     - bulet
     - aarti
 
-    ```javascript
-
-    var a="string";
-    ```
     
